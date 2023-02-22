@@ -29,7 +29,7 @@ This specialization will be continuously updated during Fall 2022 - Spring 2023 
   - [Week 2 - PA 4 - Optimization Methods](https://github.com/MeguSmurfy/deep-learning-specialization-coursera/blob/main/C2%20-%20Improving%20Deep%20Neural%20Networks%20-%20Hyperparameter%20Tuning%2C%20Regularization%20and%20Optimization/Optimization_methods.ipynb)
   - [Week 3 - PA 5 - TensorFlow Tutorial](https://github.com/MeguSmurfy/deep-learning-specialization-coursera/blob/main/C2%20-%20Improving%20Deep%20Neural%20Networks%20-%20Hyperparameter%20Tuning%2C%20Regularization%20and%20Optimization/Tensorflow_introduction.ipynb)
 
-### Course 3: Structuring Machine Learning Projects
+### Course 3: Structuring Machine Learning Projects ([Course Certificate](https://github.com/MeguSmurfy/deep-learning-specialization-coursera/blob/main/C3%20-%20Structuring%20Machine%20Learning%20Projects/C3%20Certificate.pdf))
 
   The course is mainly about Machine Learning strategies and is purely theoretical - there are no programming assignments.
   
