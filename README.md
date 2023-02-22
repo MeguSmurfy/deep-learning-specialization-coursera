@@ -14,14 +14,14 @@ This specialization will be continuously updated during Fall 2022 - Spring 2023 
 
 ## Programming Assignments
 
-### Course 1: Neural Networks and Deep Learning ([Course Certificate](https://github.com/MeguSmurfy/deep-learning-specialization-coursera/blob/main/C1%20-%20Neural%20Networks%20and%20Deep%20Learning/Course%20Certificate%20-%20Neural%20Networks%20and%20Deep%20Learning.pdf))
+### Course 1: Neural Networks and Deep Learning ([Course Certificate](https://github.com/MeguSmurfy/deep-learning-specialization-coursera/blob/main/C1%20-%20Neural%20Networks%20and%20Deep%20Learning/C1%20Certificate.pdf))
 
   - [Week 2 - PA 1 - Logistic Regression with a Neural Network mindset](https://github.com/MeguSmurfy/deep-learning-specialization-coursera/blob/main/C1%20-%20Neural%20Networks%20and%20Deep%20Learning/Logistic_Regression_with_a_Neural_Network_mindset.ipynb)
   - [Week 3 - PA 2 - Planar data classification with one hidden layer](https://github.com/MeguSmurfy/deep-learning-specialization-coursera/blob/main/C1%20-%20Neural%20Networks%20and%20Deep%20Learning/Planar_data_classification_with_one_hidden_layer.ipynb)
   - [Week 4 - PA 3 - Building your Deep Neural Network: Step by Step](https://github.com/MeguSmurfy/deep-learning-specialization-coursera/blob/main/C1%20-%20Neural%20Networks%20and%20Deep%20Learning/Building_your_Deep_Neural_Network_Step_by_Step.ipynb)
   - [Week 4 - PA 4 - Deep Neural Network for Image Classification: Application](https://github.com/MeguSmurfy/deep-learning-specialization-coursera/blob/main/C1%20-%20Neural%20Networks%20and%20Deep%20Learning/Deep%20Neural%20Network%20-%20Application.ipynb)
 
-### Course 2: Improving Deep Neural Networks: Hyperparameter tuning, Regularization and Optimization
+### Course 2: Improving Deep Neural Networks: Hyperparameter tuning, Regularization and Optimization ([Course Certificate](https://github.com/MeguSmurfy/deep-learning-specialization-coursera/blob/main/C2%20-%20Improving%20Deep%20Neural%20Networks%20-%20Hyperparameter%20Tuning%2C%20Regularization%20and%20Optimization/C2%20Certificate.pdf))
 
   - [Week 1 - PA 1 - Initialization](https://github.com/MeguSmurfy/deep-learning-specialization-coursera/blob/main/C2%20-%20Improving%20Deep%20Neural%20Networks%20-%20Hyperparameter%20Tuning%2C%20Regularization%20and%20Optimization/Initialization.ipynb)
   - [Week 1 - PA 2 - Regularization](https://github.com/MeguSmurfy/deep-learning-specialization-coursera/blob/main/C2%20-%20Improving%20Deep%20Neural%20Networks%20-%20Hyperparameter%20Tuning%2C%20Regularization%20and%20Optimization/Regularization.ipynb)
