@@ -14,7 +14,7 @@ This specialization will be continuously updated during Fall 2022 - Spring 2023 
 
 ## Programming Assignments
 
-### Course 1: Neural Networks and Deep Learning
+### Course 1: Neural Networks and Deep Learning ([Course Certificate](https://github.com/MeguSmurfy/deep-learning-specialization-coursera/blob/main/C1%20-%20Neural%20Networks%20and%20Deep%20Learning/Course%20Certificate%20-%20Neural%20Networks%20and%20Deep%20Learning.pdf))
 
   - [Week 2 - PA 1 - Logistic Regression with a Neural Network mindset](https://github.com/MeguSmurfy/deep-learning-specialization-coursera/blob/main/C1%20-%20Neural%20Networks%20and%20Deep%20Learning/Logistic_Regression_with_a_Neural_Network_mindset.ipynb)
   - [Week 3 - PA 2 - Planar data classification with one hidden layer](https://github.com/MeguSmurfy/deep-learning-specialization-coursera/blob/main/C1%20-%20Neural%20Networks%20and%20Deep%20Learning/Planar_data_classification_with_one_hidden_layer.ipynb)
