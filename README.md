@@ -31,7 +31,7 @@ This specialization will be continuously updated during Fall 2022 - Spring 2023 
 
 ### Course 3: Structuring Machine Learning Projects
 
-  - Currently studying.
+  The course is mainly about Machine Learning strategies and is purely theoretical - there are no programming assignments.
   
 ### Course 4: Convolutional Neural Networks
 
