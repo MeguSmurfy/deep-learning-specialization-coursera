@@ -33,9 +33,16 @@ This specialization will be continuously updated during Fall 2022 - Spring 2023 
 
   The course is mainly about Machine Learning strategies and is purely theoretical - there are no programming assignments.
   
-### Course 4: Convolutional Neural Networks
+### Course 4: Convolutional Neural Networks ([Course Certificate](https://github.com/MeguSmurfy/deep-learning-specialization-coursera/blob/main/C4%20-%20Convolutional%20Neural%20Networks/C4%20Certificate.pdf))
 
-  - Currently studying.
+  - [Week 1 - PA 1 - Convolutional Model, Step by Step](https://github.com/MeguSmurfy/deep-learning-specialization-coursera/blob/main/C4%20-%20Convolutional%20Neural%20Networks/Convolution_model_Step_by_Step_v1.ipynb)
+  - [Week 1 - PA 2 - Convolution Model Application](https://github.com/MeguSmurfy/deep-learning-specialization-coursera/blob/main/C4%20-%20Convolutional%20Neural%20Networks/Convolution_model_Application.ipynb)
+  - [Week 2 - PA 3 - Residual Networks](https://github.com/MeguSmurfy/deep-learning-specialization-coursera/blob/main/C4%20-%20Convolutional%20Neural%20Networks/Residual_Networks.ipynb)
+  - [Week 2 - PA 4 - Transfer Learning with MobileNet](https://github.com/MeguSmurfy/deep-learning-specialization-coursera/blob/main/C4%20-%20Convolutional%20Neural%20Networks/Transfer_learning_with_MobileNet_v1.ipynb)
+  - [Week 3 - PA 5 - Car detection with YOLO](https://github.com/MeguSmurfy/deep-learning-specialization-coursera/blob/main/C4%20-%20Convolutional%20Neural%20Networks/Autonomous_driving_application_Car_detection.ipynb)
+  - [Week 3 - PA 6 - Image Segmentation with U-Net](https://github.com/MeguSmurfy/deep-learning-specialization-coursera/blob/main/C4%20-%20Convolutional%20Neural%20Networks/Image_segmentation_Unet_v2.ipynb)
+  - [Week 4 - PA 7 - Face Recognition](https://github.com/MeguSmurfy/deep-learning-specialization-coursera/blob/main/C4%20-%20Convolutional%20Neural%20Networks/Face_Recognition.ipynb)
+  - [Week 4 - PA 8 - Art Generation with Neural Style Transfer](https://github.com/MeguSmurfy/deep-learning-specialization-coursera/blob/main/C4%20-%20Convolutional%20Neural%20Networks/Art_Generation_with_Neural_Style_Transfer.ipynb)
   
 ### Course 5: Sequence Models
 
