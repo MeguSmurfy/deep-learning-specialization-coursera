@@ -45,5 +45,11 @@ This specialization will be continuously updated during Fall 2022 - Spring 2023 
   - [Week 4 - PA 8 - Art Generation with Neural Style Transfer](https://github.com/MeguSmurfy/deep-learning-specialization-coursera/blob/main/C4%20-%20Convolutional%20Neural%20Networks/Art_Generation_with_Neural_Style_Transfer.ipynb)
   
 ### Course 5: Sequence Models
-
-  - Currently studying.
+  - [Week 1 - PA 1 - Building your Recurrent Neural Network - Step by Step](https://github.com/MeguSmurfy/deep-learning-specialization-coursera/blob/main/C5%20-%20Sequence%20Models/Building_a_Recurrent_Neural_Network_Step_by_Step.ipynb)
+  - [Week 1 - PA 2 - Dinosaur Island-Character-Level Language Modeling](https://github.com/MeguSmurfy/deep-learning-specialization-coursera/blob/main/C5%20-%20Sequence%20Models/Dinosaurus_Island_Character_level_language_model.ipynb)
+  - [Week 1 - PA 3 - Jazz Improvisation with LSTM](https://github.com/MeguSmurfy/deep-learning-specialization-coursera/blob/main/C5%20-%20Sequence%20Models/Improvise_a_Jazz_Solo_with_an_LSTM_Network_v4.ipynb)
+  - [Week 2 - PA 4 - Operations on Word Vectors - Debiasing]()
+  - [Week 2 - PA 5 - Emojify]()
+  - [Week 3 - PA 6 - Neural Machine Translation]()
+  - [Week 3 - PA 7 - Trigger Word Detection]()
+  - [Week 4 - PA 8 - Transformers Architecture with TensorFlow]()
