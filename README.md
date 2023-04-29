@@ -10,7 +10,7 @@ This repo contains my work for this specialization. The code base, assignments a
 
 ## 2022-2023 Version
 
-This specialization will be continuously updated during Fall 2022 - Spring 2023 during my study of the specialization [Certificate of Completion](https://github.com/MeguSmurfy/deep-learning-specialization-coursera/blob/main/Deep%20Learning%20Specialization%20Certificate.pdf).
+This specialization will be continuously updated during Fall 2022 - Spring 2023 during my study of the specialization ([Certificate of Completion](https://github.com/MeguSmurfy/deep-learning-specialization-coursera/blob/main/Deep%20Learning%20Specialization%20Certificate.pdf)).
 
 ## Programming Assignments
 
