@@ -10,7 +10,7 @@ This repo contains my work for this specialization. The code base, assignments a
 
 ## 2022-2023 Version
 
-This specialization will be continuously updated during Fall 2022 - Spring 2023 during my study of the specialization.
+This specialization will be continuously updated during Fall 2022 - Spring 2023 during my study of the specialization [Certificate of Completion](https://github.com/MeguSmurfy/deep-learning-specialization-coursera/blob/main/Deep%20Learning%20Specialization%20Certificate.pdf).
 
 ## Programming Assignments
 
@@ -44,12 +44,16 @@ This specialization will be continuously updated during Fall 2022 - Spring 2023 
   - [Week 4 - PA 7 - Face Recognition](https://github.com/MeguSmurfy/deep-learning-specialization-coursera/blob/main/C4%20-%20Convolutional%20Neural%20Networks/Face_Recognition.ipynb)
   - [Week 4 - PA 8 - Art Generation with Neural Style Transfer](https://github.com/MeguSmurfy/deep-learning-specialization-coursera/blob/main/C4%20-%20Convolutional%20Neural%20Networks/Art_Generation_with_Neural_Style_Transfer.ipynb)
   
-### Course 5: Sequence Models
+### Course 5: Sequence Models ([Course Certificate](https://github.com/MeguSmurfy/deep-learning-specialization-coursera/blob/main/C5%20-%20Sequence%20Models/C5%20Certificate.pdf))
   - [Week 1 - PA 1 - Building your Recurrent Neural Network - Step by Step](https://github.com/MeguSmurfy/deep-learning-specialization-coursera/blob/main/C5%20-%20Sequence%20Models/Building_a_Recurrent_Neural_Network_Step_by_Step.ipynb)
   - [Week 1 - PA 2 - Dinosaur Island-Character-Level Language Modeling](https://github.com/MeguSmurfy/deep-learning-specialization-coursera/blob/main/C5%20-%20Sequence%20Models/Dinosaurus_Island_Character_level_language_model.ipynb)
   - [Week 1 - PA 3 - Jazz Improvisation with LSTM](https://github.com/MeguSmurfy/deep-learning-specialization-coursera/blob/main/C5%20-%20Sequence%20Models/Improvise_a_Jazz_Solo_with_an_LSTM_Network_v4.ipynb)
-  - [Week 2 - PA 4 - Operations on Word Vectors - Debiasing]()
-  - [Week 2 - PA 5 - Emojify]()
-  - [Week 3 - PA 6 - Neural Machine Translation]()
-  - [Week 3 - PA 7 - Trigger Word Detection]()
-  - [Week 4 - PA 8 - Transformers Architecture with TensorFlow]()
+  - [Week 2 - PA 4 - Operations on Word Vectors - Debiasing](https://github.com/MeguSmurfy/deep-learning-specialization-coursera/blob/main/C5%20-%20Sequence%20Models/Operations_on_word_vectors_v2a.ipynb)
+  - [Week 2 - PA 5 - Emojify](https://github.com/MeguSmurfy/deep-learning-specialization-coursera/blob/main/C5%20-%20Sequence%20Models/Emoji_v3a.ipynb)
+  - [Week 3 - PA 6 - Neural Machine Translation](https://github.com/MeguSmurfy/deep-learning-specialization-coursera/blob/main/C5%20-%20Sequence%20Models/Neural_machine_translation_with_attention_v4a.ipynb)
+  - [Week 3 - PA 7 - Trigger Word Detection](https://github.com/MeguSmurfy/deep-learning-specialization-coursera/blob/main/C5%20-%20Sequence%20Models/Trigger_word_detection_v2a.ipynb)
+  - [Week 4 - PA 8 - Transformers Architecture with TensorFlow](https://github.com/MeguSmurfy/deep-learning-specialization-coursera/blob/main/C5%20-%20Sequence%20Models/C5_W4_A1_Transformer_Subclass_v1.ipynb)
+  - [Week 4 - Ungraded Lab 1 - Transformer Pre-processing](https://github.com/MeguSmurfy/deep-learning-specialization-coursera/blob/main/C5%20-%20Sequence%20Models/Embedding_plus_Positional_encoding.ipynb)
+  - [Week 4 - Ungraded Lab 2 - Transformer Network Application: Named-Entity Recognition](https://github.com/MeguSmurfy/deep-learning-specialization-coursera/blob/main/C5%20-%20Sequence%20Models/Transformer_application_Named_Entity_Recognition.ipynb)
+  - [Week 4 - Ungraded Lab 3 - Transformer Network Application: Question Answering](https://github.com/MeguSmurfy/deep-learning-specialization-coursera/blob/main/C5%20-%20Sequence%20Models/QA_dataset.ipynb)
+  
